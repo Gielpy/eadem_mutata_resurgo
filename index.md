@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gielpy.github.io
+title: eadem mutata resurgo
 tagline: A creative space
 ---
 

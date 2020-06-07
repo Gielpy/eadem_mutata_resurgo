@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : gielpy.github.io
+title : eadem mutata resurgo
 author :
   name : Gregory Powell
   email : gregoryllpowell [at] gmail [dot] com
@@ -17,7 +17,7 @@ author :
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://gielpy.github.io
+production_url : https://gielpy.github.io/eadem_mutata_resurgo
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -52,7 +52,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://gielpy.github.io
+  BASE_PATH : https://gielpy.github.io/eadem_mutata_resurgo
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
